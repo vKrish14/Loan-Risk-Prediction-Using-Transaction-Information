@@ -1,4 +1,4 @@
-##Credit Risk Prediction Using Neural Networks##
+#Credit Risk Prediction Using Neural Networks
 Overview
 
 This project predicts the credit risk of loan applicants using a feedforward neural network. The model is trained on the Lending Club dataset, which contains detailed information about accepted and rejected loan applications. The goal is to classify whether a loan will be "Fully Paid" or result in "Default/Charged Off" based on applicant and loan features.
